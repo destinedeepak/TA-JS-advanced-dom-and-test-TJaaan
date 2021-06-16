@@ -11,7 +11,7 @@ function power() {}
 function factorial() {}
 
 module.exports = {
-  add,
+  add, 
   subtract,
   sum,
   multiply,
